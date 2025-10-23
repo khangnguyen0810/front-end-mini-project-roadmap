@@ -1,0 +1,110 @@
+hr.solid {
+  margin-top: 5%;
+  margin-left: 10%;
+  width: 60%;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+}
+
+h1.name {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left: 10%;
+}
+
+h2.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left: 10%;
+  color: green;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+div.address {
+  margin-bottom: 30px;
+}
+
+div.address h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  margin-left: 10%;
+  line-height: 1.4;
+}
+
+h2.skills {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left: 10%;
+  color: green;
+}
+
+div.skills {
+  margin-bottom: 30px;
+}
+
+div.skills h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  margin-left: 10%;
+}
+
+h2.education {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left: 10%;
+  color: green;
+}
+
+div.education {
+  margin-bottom: 30px;
+}
+
+#university-name {
+  font-weight: bold;
+  color: rgb(92, 92, 255);
+}
+
+div.education h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  margin-left: 10%;
+}
+
+h2.experience {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left: 10%;
+  color: green;
+}
+
+div.experience {
+  margin-bottom: 30px;
+}
+
+div.experience h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  margin-left: 10%;
+}
+
+#job-title {
+  font-weight: bold;
+  color: rgb(92, 92, 255);
+}
+
+div.connection {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  margin-left: 10%;
+}
+
+div.connection a {
+  font-size: 24px;
+}
+
+#across-the-internet {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: unset bolder;
+  color: green;
+}
